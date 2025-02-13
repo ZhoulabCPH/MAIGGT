@@ -1,4 +1,4 @@
-# MAIGGT [![DOI](https://zenodo.org/badge/850167237.svg)](https://doi.org/10.5281/zenodo.14058685)
+# MAIGGT
 Code for 'An explainable multimodal artificial intelligence model integrating histopathological microenvironment and EHR phenotypes for germline genetic testing in breast cancer'
 ![schematic](https://github.com/ZhoulabCPH/MAIGGT/blob/master/checkpoints/schematic.png)
 ****
