@@ -1,0 +1,3 @@
+Sample,BRCA_mut,age_at_diagnosis,tumor_history,BRCA_history,OV_history,tumor_family_history,BRCA_family_history,OV_family_history,pancreatic_cancer_family_history,mbc_cancer_family_history,largest_diameter,Grade,AR_grade,ER_grade,PR_grade,Ki67,CK56,Lymph_node_status,HER2,Multi-focal,Bilateral breast lesions
+Sample_01.svs,1,37,0,0,0,1,0,0,0,0,3,3,0,0,0,0.8,Negative,Non-invasion,Negative,0,0
+Sample_02.svs,0,34,0,0,0,1,1,0,0,0,2.2,3,0.15,0.6,0.3,0.7,Negative,Invasion,Positive,0,0
