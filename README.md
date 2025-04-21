@@ -78,7 +78,7 @@ Note: The above code uses relative paths by default, and all results will be aut
 ```
   
 ## Web tool
-we have deployed the WISE-BRCA from the MAIGGT on the web [WISE-BRCA](http://WISE-BRCA.com) to facilitate use by clinicians who may not be familiar with programming (Figure R3). In the future, we will continue to expand this web application to implement all functionalities of the MAIGGT.
+We have deployed the WISE-BRCA from the MAIGGT on the web [WISE-BRCA](http://WISE-BRCA.com) to facilitate use by clinicians who may not be familiar with programming (Figure R3). In the future, we will continue to expand this web application to implement all functionalities of the MAIGGT.
 ![WSE-BRCA_web_tutorial](https://github.com/ZhoulabCPH/MAIGGT/blob/master/checkpoints/WSE-BRCA_web_tutorial.png)
 
 
