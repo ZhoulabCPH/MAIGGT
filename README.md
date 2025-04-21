@@ -77,7 +77,8 @@ If you intend to utilize it for paper reproduction or your own dataset, please a
 Note: The above code uses relative paths by default, and all results will be automatically saved accordingly. You may modify the paths to store the results in any desired location.
 ```
   
-
+## Web tool
+we have deployed the WISE-BRCA from the MAIGGT on the web [WISE-BRCA](http://WISE-BRCA.com) to facilitate use by clinicians who may not be familiar with programming (Figure R3). In the future, we will continue to expand this web application to implement all functionalities of the MAIGGT.
 
 
 
